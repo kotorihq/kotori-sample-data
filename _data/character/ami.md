@@ -1,0 +1,9 @@
+---
+name: Ami Kawashima (川嶋 亜美)
+height: 165 cm
+weight: 45 kg
+bwh: { b: 90, w: 58, h: 88 }
+---
+Ami is Yuusaku's childhood friend who transfers into his class midway through their second year of high school. She is very beautiful and even works as a model, though after she transfers school, she temporarily stops modeling. However, she still continues to go to the gym readily and maintains a slim figure. She is always kind and generous towards others, though this is merely a deception. In truth, she is arrogant and will not hesitate to use others for her own benefit. During her first meeting with Taiga, Ami showed her true colors, but the tables were turned when Taiga threw a counterattack back at her. Since then, Ami and Taiga have been enemies, though Ami still sometimes envies Taiga since she can always be honest. It's hinted at, mostly through her childhood friend Yuusaku, that she's like this because she hasn't really known any other life than her modeling, which is part of the reason she moved to their hometown to attend school there.
+
+Which is why, through her affiliations with Taiga and Ryuuji, Ami eventually develops more of a "middle ground" personality, signified with her losing her temper and taking out her frustrations on a stalker fan. While this doesn't mean that she automatically become friends with Taiga, the two of them also meet halfway to some extent, thus running into arguments far less frequently. She can still be somewhat manipulative and mischievous, but her "gravure airhead" personality is almost entirely abandoned for a more outspoken one, and she's even helped out her newfound friends, including Taiga, on occasion. At some point, she even showed some interest in Ryuuji.
