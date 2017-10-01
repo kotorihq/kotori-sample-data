@@ -1,6 +1,6 @@
 ---
 title: What is it?
-slug: about/
+$url about/
 ---
 # {{title}}
 

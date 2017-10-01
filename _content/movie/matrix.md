@@ -1,6 +1,6 @@
 ---
 title: The Matrix
-date: 2017-03-03
+$date: 2017-03-03
 rating: 10
 from: 1999
 imdb: http://www.imdb.com/title/tt5621006

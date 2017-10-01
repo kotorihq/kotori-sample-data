@@ -1,7 +1,7 @@
 ---
 title: Flip Flappers
 altTitles: ['フリップフラッパーズ']
-date: 2017-08-12
+$date: 2017-08-12
 rating: 8
 from: 2016
 categories: ['Anime', 'Sci-Fi', 'Comedy']

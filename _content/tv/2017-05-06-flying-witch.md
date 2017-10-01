@@ -1,7 +1,9 @@
 ---
 title: Flying Witch
 altTitles: ['ふらいんぐうぃっち']
-date: 2017-05-06
+$date: 2017-05-06
+$url: flying-witch-2016 
+url: fake-flying-witch
 rating: 9
 from: 2016
 categories: ['Anime', 'Slice of Life', 'Comedy', 'Supernatural', 'Magic', 'Shounen']
