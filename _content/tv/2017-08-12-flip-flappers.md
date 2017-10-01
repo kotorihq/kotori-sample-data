@@ -2,8 +2,8 @@
 title: Flip Flappers
 altTitles: ['フリップフラッパーズ']
 $date: 2017-08-12
-rating: 8
-from: 2016
+rating: !!int 8
+from: !!int 2016
 categories: ['Anime', 'Sci-Fi', 'Comedy']
 imdb: http://www.imdb.com/title/tt6139566
 trakt: https://trakt.tv/shows/flip-flappers

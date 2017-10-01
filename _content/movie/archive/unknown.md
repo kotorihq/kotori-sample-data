@@ -1,8 +1,8 @@
 ---
 title: Unknown
 $date: 2017-03-03
-rating: 10
-from: 2001
+rating: !!int 10
+from: !!int 2001
 ---
 
 ## {{ title }}

@@ -4,8 +4,8 @@ altTitles: ['ふらいんぐうぃっち']
 $date: 2017-05-06
 $slug: flying-witch-2016 
 url: fake-flying-witch
-rating: 9
-from: 2016
+rating: !!int 9
+from: !!int 2016
 categories: ['Anime', 'Slice of Life', 'Comedy', 'Supernatural', 'Magic', 'Shounen']
 imdb: http://www.imdb.com/title/tt5621006
 trakt: https://trakt.tv/shows/flying-witch
