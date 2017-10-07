@@ -6,7 +6,7 @@ from: !!int 1999
 imdb: http://www.imdb.com/title/tt5621006
 ---
 
-## 0101000010101010010101
+## 0101000010101010010101 and btw rating is {{rating}} for {{title}}
 
 ***
 
