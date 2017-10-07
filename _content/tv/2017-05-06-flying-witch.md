@@ -13,7 +13,7 @@ mal: https://myanimelist.net/anime/31376/Flying_Witch
 
 ![{{title}}](http://kotori/{{slug}}/title.jpg)
 
-## That's a funny one, rated {{rating}} and with nice slug {{$slug}}
+## That's a funny one, rated {{rating}} / 10
 
 ***
 
